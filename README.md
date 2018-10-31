@@ -1,0 +1,1 @@
+# jenkins-project-for-checking-git
